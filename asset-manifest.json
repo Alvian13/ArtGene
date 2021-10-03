@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/https//Alvian13.github.io/ArtGene/static/css/main.101fdb3a.chunk.css",
+    "main.js": "/https//Alvian13.github.io/ArtGene/static/js/main.b9b29ab9.chunk.js",
+    "main.js.map": "/https//Alvian13.github.io/ArtGene/static/js/main.b9b29ab9.chunk.js.map",
+    "runtime-main.js": "/https//Alvian13.github.io/ArtGene/static/js/runtime-main.489968a6.js",
+    "runtime-main.js.map": "/https//Alvian13.github.io/ArtGene/static/js/runtime-main.489968a6.js.map",
+    "static/js/2.bae2fa55.chunk.js": "/https//Alvian13.github.io/ArtGene/static/js/2.bae2fa55.chunk.js",
+    "static/js/2.bae2fa55.chunk.js.map": "/https//Alvian13.github.io/ArtGene/static/js/2.bae2fa55.chunk.js.map",
+    "index.html": "/https//Alvian13.github.io/ArtGene/index.html",
+    "static/css/main.101fdb3a.chunk.css.map": "/https//Alvian13.github.io/ArtGene/static/css/main.101fdb3a.chunk.css.map",
+    "static/js/2.bae2fa55.chunk.js.LICENSE.txt": "/https//Alvian13.github.io/ArtGene/static/js/2.bae2fa55.chunk.js.LICENSE.txt",
+    "static/media/Earth_nasa.f1d69829.jpg": "/https//Alvian13.github.io/ArtGene/static/media/Earth_nasa.f1d69829.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.489968a6.js",
+    "static/js/2.bae2fa55.chunk.js",
+    "static/css/main.101fdb3a.chunk.css",
+    "static/js/main.b9b29ab9.chunk.js"
+  ]
+}
